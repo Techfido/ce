@@ -1182,7 +1182,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1197,6 +1197,24 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ARTICLES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TUTORIAL</a>",
                 "overlayOpacity": "0.7",
                 "overlayColor": "#1c3683"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/blockchainiota-2000x1125.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=XMZcjdK4Vuk",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "title": "<b>IOTA Guide</b>",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">READ NOW...</a> ",
+                "overlayOpacity": "0.7",
+                "overlayColor": "#232323"
               }
             ]
           }
