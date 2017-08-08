@@ -1199,7 +1199,7 @@
                 "overlayColor": "#1c3683"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/electron-blockchain-2000x1124.jpg",
+                "image": "@PROJECT_PATH@/assets/images/blockchainiota-2000x1125.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
