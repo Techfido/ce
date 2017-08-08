@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-04_1112",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1182,7 +1182,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1200,7 +1200,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/blockchainiota-2000x1125.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
