@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-04_1112",
-    "currentPage": "page1.html",
+    "currentPage": "Learningcenter.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -923,7 +923,7 @@
         }
       ]
     },
-    "page1.html": {
+    "Learningcenter.html": {
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Learning&nbsp;",
