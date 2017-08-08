@@ -1517,13 +1517,13 @@ pre {
 .cid-qrjmpzdnOo {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/network-2000x1111.jpg");
 }
 .cid-qrjmpzdnOo .title {
   margin-bottom: 2rem;
 }
 .cid-qrjmpzdnOo .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-qrjmpzdnOo a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1542,12 +1542,18 @@ pre {
   text-align: center;
 }
 .cid-qrjmpzdnOo LABEL {
-  color: #073b4c;
+  color: #ffffff;
+}
+.cid-qrjmpzdnOo H2 {
+  color: #ffffff;
 }
 .cid-qroapysk5Z {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #ffffff;
+}
+.cid-qroapysk5Z .media-container-row .mbr-text {
+  color: #1c3683;
 }
 .cid-qriPNArzHw .navbar {
   padding: .5rem 0;
