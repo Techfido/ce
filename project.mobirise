@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-04_1112",
-    "currentPage": "Learningcenter.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
     },
     "versionFirst": "4.0.17",
     "uniqCompNum": 25,
-    "versionPublish": "4.0.17",
+    "versionPublish": "4.1.2",
     "userFonts": [
       {
         "css": "'Ubuntu', sans-serif",
