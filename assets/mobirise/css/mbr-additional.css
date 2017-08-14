@@ -1569,6 +1569,7 @@ pre {
 .cid-qroapysk5Z .media-container-row .mbr-text {
   color: #1c3683;
 }
+
 .cid-qrHoNRM0C9 .modal-body .close {
   background: #1b1b1b;
 }
@@ -1804,6 +1805,12 @@ pre {
 }
 .cid-qrHoNRM0C9 .mbr-overlay ~ .container-slide {
   z-index: auto;
+}
+.cid-qrHoNRM0C9 .btn {
+  font-family: 'Ubuntu', sans-serif;
+}
+.cid-qrHoNRM0C9 P {
+  color: #000000;
 }
 .cid-qriPNArzHw .navbar {
   padding: .5rem 0;
