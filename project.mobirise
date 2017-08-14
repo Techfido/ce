@@ -1190,7 +1190,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1208,7 +1208,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
