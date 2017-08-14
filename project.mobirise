@@ -1213,7 +1213,7 @@
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=96vc6aYgg5k",
+                "videoUrl": "https://www.youtube.com/watch?v=FKu4v_boJ3o&list=PLbKofIo31udTycYM7blJnDT4Gw2FXv45t",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "title": "<b>IOTA</b> The Complete Guide",
@@ -1221,7 +1221,7 @@
                 "contentAlign": "left",
                 "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY IOTA</a> ",
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "0.2",
                 "overlayColor": "#000000"
               },
               {
