@@ -1182,7 +1182,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1200,12 +1200,12 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=GETeEapESyQ",
+                "videoUrl": "https://www.youtube.com/watch?v=KjFpIpYNPEY",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "title": "<b>IOTA</b> The Complete Guide",
