@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-04_1112",
-    "currentPage": "index.html",
+    "currentPage": "Learningcenter.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1212,7 +1212,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read Now</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY IOTA</a> ",
                 "overlayOpacity": "0.7",
                 "overlayColor": "#000000"
               }
