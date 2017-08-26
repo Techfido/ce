@@ -1194,7 +1194,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1230,7 +1230,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1243,7 +1243,7 @@
                 "contentAlign": "left",
                 "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY NEO</a> ",
-                "overlayOpacity": "0.7",
+                "overlayOpacity": "0.6",
                 "overlayColor": "#64ca3a"
               }
             ]
