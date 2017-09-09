@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-04_1112",
-    "currentPage": "why-invest-in-omisego.html",
+    "currentPage": "Learningcenter.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1196,7 +1196,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1210,6 +1210,24 @@
                 "text": "Learn with us all the basic infos that you will need to get into the Digital Currencies trading&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ARTICLES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TUTORIALS</a>",
                 "overlayOpacity": "0.7",
+                "overlayColor": "#1c3683"
+              },
+              {
+                "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=qp7ml8_0GjE",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "title": "Why Should you invest in <br><b>OmiseGo (OMG)</b>  Right Now?",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"why-invest-in-omisego.html\" data-toolbar=\"-mbrBtnMove\">Read Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY OmiseGo OMG</a> ",
+                "overlayOpacity": "0.5",
                 "overlayColor": "#1c3683"
               },
               {
@@ -1232,7 +1250,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
