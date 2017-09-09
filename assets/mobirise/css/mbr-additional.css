@@ -2616,6 +2616,27 @@ pre {
 .cid-quH815f3ul .mbr-section-subtitle {
   text-align: left;
 }
+.cid-quHhiXBsKL {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-quHhiXBsKL .image-block {
+  margin: auto;
+}
+.cid-quHhiXBsKL figcaption {
+  position: relative;
+}
+.cid-quHhiXBsKL figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-quHhiXBsKL .image-block {
+    width: 100% !important;
+  }
+}
 .cid-quH9GzQ1sN {
   padding-top: 60px;
   padding-bottom: 30px;
