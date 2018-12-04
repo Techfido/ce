@@ -4245,6 +4245,32 @@ body {
 .cid-rbbdvnCLEK .mbr-text {
   text-align: center;
 }
+.cid-rbezNYkz3D {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #f7ed4a;
+}
+.cid-rbezNYkz3D .line {
+  background-color: #073b4c;
+  color: #073b4c;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rbezNYkz3D .section-text {
+  padding: 2rem 0;
+}
+.cid-rbezNYkz3D .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rbezNYkz3D .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rbezNYkz3D .section-text B {
+  color: #073b4c;
+}
 .cid-rbehP4NNRR {
   background: #ffffff;
   padding-top: 60px;
