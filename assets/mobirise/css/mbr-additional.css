@@ -5426,13 +5426,53 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/bitcoin-europe-eu-640x427-1440x564-c-1440x564.jpg");
 }
-.cid-rbk6adh5YX {
-  padding-top: 30px;
-  padding-bottom: 30px;
+.cid-rblPxKSoxh {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rbk6adh5YX .media-container-row .mbr-text {
-  color: #1c3683;
+@media (min-width: 992px) {
+  .cid-rblPxKSoxh .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rblPxKSoxh .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rblPxKSoxh .mbr-text {
+  color: #767676;
+}
+.cid-rblQ3nXdVj {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rblQ3nXdVj .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rblQ3nXdVj .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rblQ3nXdVj .mbr-text {
+  color: #767676;
+}
+.cid-rblQnQfYYj {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #149dcc;
+}
+.cid-rblQnQfYYj .mbr-text,
+.cid-rblQnQfYYj blockquote {
+  color: #767676;
+}
+.cid-rblQnQfYYj B {
+  color: #ffffff;
 }
 .cid-rbk6adyPe1 .navbar {
   padding: .5rem 0;
@@ -5801,4 +5841,32 @@ body {
     border-right: .30em solid transparent;
     border-left: .30em solid transparent;
   }
+}
+.cid-rblQAYnnum {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-rblQAYnnum h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rblQAYnnum p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rblQAYnnum .card-box {
+  padding-top: 2rem;
+}
+.cid-rblQAYnnum .card-wrapper {
+  height: 100%;
+}
+.cid-rbk6adh5YX {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rbk6adh5YX .media-container-row .mbr-text {
+  color: #1c3683;
 }
