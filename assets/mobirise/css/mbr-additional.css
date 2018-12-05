@@ -5388,6 +5388,44 @@ body {
 .cid-rbk6ab0mTa .mbr-section-btn {
   text-align: right;
 }
+.cid-rbkWckn5g2 {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+.cid-rbkWckn5g2 .image-block {
+  margin: auto;
+}
+.cid-rbkWckn5g2 figcaption {
+  position: relative;
+}
+.cid-rbkWckn5g2 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rbkWckn5g2 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rbkWdDMl4v {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rbkWdDMl4v .mbr-text,
+.cid-rbkWdDMl4v blockquote {
+  color: #767676;
+}
+.cid-rbkWdDMl4v .mbr-text {
+  text-align: center;
+}
+.cid-rbkX1ZQjPB {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/bitcoin-europe-eu-640x427-1440x564-c-1440x564.jpg");
+}
 .cid-rbk6adh5YX {
   padding-top: 30px;
   padding-bottom: 30px;
