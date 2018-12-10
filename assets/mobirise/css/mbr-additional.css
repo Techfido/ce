@@ -1745,6 +1745,13 @@ body {
     border-left: .30em solid transparent;
   }
 }
+.cid-qriPIOygdj H1 {
+  text-align: center;
+}
+.cid-qriPIOygdj .mbr-text,
+.cid-qriPIOygdj .mbr-section-btn {
+  text-align: center;
+}
 .cid-rb8KnF93LP {
   padding-top: 60px;
   padding-bottom: 15px;
